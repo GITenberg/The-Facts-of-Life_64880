@@ -1,0 +1,24 @@
+_repo: The-Facts-of-Life_64880
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, P. Schuyler (Peter Schuyler)
+    alias: Miller, Peter Schuyler
+    birthdate: 1912
+    deathdate: 1974
+    gutenberg_agent_id: '53056'
+    url: http://www.gutenberg.org/2009/agents/53056
+    wikipedia: https://en.wikipedia.org/wiki/P._Schuyler_Miller
+description: ''
+gutenberg_issued: '2021-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Facts of Life
+url: http://www.gutenberg.org/ebooks/64880
